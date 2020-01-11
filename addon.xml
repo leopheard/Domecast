@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.domecast" name="Domecast" version="1.0.0" provider-name="leopheard">
+  <requires>
+    <import addon="xbmc.python" version="2.26.0"/>
+    <import addon="script.module.xbmcswift2" version="2.4.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.1"/>
+    <import addon="script.module.requests" version="1.1.0"/>
+    <import addon="script.module.routing" version="0.2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language>en_us</language>
+    <summary lang="en">Domecast</summary>
+    <description lang="en">The Under the Dome team at The News &amp; Observer present the Domecast, your source for reviews and previews of topics in state government and politics for North Carolina. You can learn more at <a href="www.newsobserver.com/dome/">NewsObserver.com</a></description>
+    <license>The MIT License (MIT)</license>
+    <forum></forum>
+    <email>leopheard@gmail.com</email>
+    <source>https://github.com/leopheard/Domecast</source>
+    <website>https://www.newsobserver.com/news/politics-government/politics-columns-blogs/under-the-dome/</website>
+        	<assets>
+			<icon>resources/media/icon.jpg</icon>
+			<fanart>resources/media/fanart.jpg</fanart>
+			<screenshot>resources/media/1.jpg</screenshot>
+			<screenshot>resources/media/1.jpg</screenshot>
+			<screenshot>resources/media/1.jpg</screenshot>
+		</assets>
+  </extension>
+</addon>
