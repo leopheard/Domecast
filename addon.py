@@ -9,11 +9,11 @@ def main_menu():
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('episodes1'),
-            'thumbnail': "http://megaphone-prod.s3.amazonaws.com/podcasts/f5209ff0-da66-11e9-b1b6-d34ecf232655/image/artworks-000178938156-8ykdho-original.jpg"},
+            'thumbnail': "https://megaphone-prod.s3.amazonaws.com/podcasts/f80511b0-da66-11e9-b1b6-f34ed4ab88e7/image/artworks-000148738144-krwtxd-original.jpg"},
         {
             'label': plugin.get_string(30000),
             'path': plugin.url_for('episodes'),
-            'thumbnail': "http://megaphone-prod.s3.amazonaws.com/podcasts/f5209ff0-da66-11e9-b1b6-d34ecf232655/image/artworks-000178938156-8ykdho-original.jpg"},
+            'thumbnail': "https://megaphone-prod.s3.amazonaws.com/podcasts/f80511b0-da66-11e9-b1b6-f34ed4ab88e7/image/artworks-000148738144-krwtxd-original.jpg"},
     ]
     return items
 

@@ -1,7 +1,6 @@
-<a href="kodi.tv">KODI<a> / XBMC / Firestick audio addon for the <a href="www.newsobserver.com/dome/">Domecast</a> podcast from the News & Observer.<br>
+<a href="kodi.tv">KODI<a> / XBMC / Firestick audio addon for the <a href="www.newsobserver.com/dome/">Domecast</a> podcast from the Raleigh News & Observer.<br>
 
-<img src="https://megaphone-prod.s3.amazonaws.com/podcasts/eacac6d4-da66-11e9-aa11-e380e86e40fe/image/avatars-000146491340-0f91hj-original.png
-"><br>
+<img src="https://megaphone-prod.s3.amazonaws.com/podcasts/f80511b0-da66-11e9-b1b6-f34ed4ab88e7/image/artworks-000148738144-krwtxd-original.jpg"><br>
 
 <a href="www.newsobserver.com/dome/">The Under the Dome</a> team at The News &amp; Observer present the Domecast, your source for reviews and previews of topics in state government and politics for North Carolina. You can learn more at <a href="www.newsobserver.com/dome/">NewsObserver.com</a><br>
 
